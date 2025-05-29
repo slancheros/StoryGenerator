@@ -1,0 +1,2 @@
+# StoryGenerator
+Langchain story generator
